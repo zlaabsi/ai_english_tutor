@@ -2,15 +2,21 @@ import streamlit as st
 from elevenlabs import generate, set_api_key
 import openai
 import requests
+import os
 
 # Global variables
 
 AUDIOS_PATH = "frontend/src/audios/"
 AUDIO_PATH = "/audios/"
 OPENAI_API_KEY = "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"
+XI_API_KEY = input()
+
+
 
 def premade_voice(prompt, voice):
     audio_path = f'{AUDIO_PATH}{voice}.mp3'
+    set_api_key((os.getenv(f"{XI_API_KEY}")))
+    
 
     audio = generate(
         text=prompt,
