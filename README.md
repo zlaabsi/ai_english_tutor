@@ -74,3 +74,7 @@ streamlit run api.py
 ## Conclusion
 
 AI English Tutor offers a blend of advanced AI technologies to provide a robust and interactive platform for English language learning. It demonstrates the potential of AI in revolutionizing education, offering immersive and personalized learning experiences.
+
+## Bonus
+
+The Midjourney prompt used to generate the project illustration : `an android steampunk robot with stereotypically British Victorian clothes and features, drinking English tea and levitating against the backdrop of steampunk London , by Albert Bierstadt, by Annibale Carracci, by Wangechi Mutu, Illustration, Artwork, Golden Hour, First-Person, 4k, HDR, Flare, Rembrandt Lighting, Felt, Fibers, VFX --uplight --ar 4:3`
