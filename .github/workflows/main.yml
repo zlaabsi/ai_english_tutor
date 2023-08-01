@@ -21,7 +21,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run script
-      run: python api.py
+      run: python backend/api.py
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         XI_API_KEY: ${{ secrets.XI_API_KEY }}
