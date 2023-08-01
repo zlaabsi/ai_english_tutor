@@ -99,5 +99,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print(OPENAI_API_KEY)
-    print(XI_API_KEY)
