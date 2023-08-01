@@ -1,2 +1,2 @@
-# ai_tutor
+# AI English Tutor
 ElevenLabs Hackathon Project
