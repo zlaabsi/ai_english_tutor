@@ -1,5 +1,8 @@
 # AI English Tutor : ElevenLabs AI Hackathon Project
 
+![8 5(2)](https://github.com/zlaabsi/ai_english_tutor/assets/52045850/0420b604-1a05-46d4-a5cf-5b48f022b2f9)
+
+
 AI English Tutor is an innovative application that aims to bolster English proficiency through interactive dialogues, correction prompts, and real-time feedback. The application combines OpenAI's GPT-3.5-Turbo, ElevenLabs's Speech Synthesis, and Streamlit to deliver a potent, user-friendly language learning platform.
 
 ## Technologies Used
