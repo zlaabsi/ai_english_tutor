@@ -5,6 +5,7 @@
 
 AI English Tutor is an innovative application that aims to bolster English proficiency through interactive dialogues, correction prompts, and real-time feedback. The application combines OpenAI's GPT-3.5-Turbo, ElevenLabs's Speech Synthesis, and Streamlit to deliver a potent, user-friendly language learning platform.
 
+
 ## Technologies Used
 
 1. **OpenAI's GPT-3.5-Turbo**: OpenAI's language model serves as the backbone of our AI tutor. It generates dialogue and provides corrections to user input. Below is a snippet demonstrating the request to the GPT-3.5-Turbo model.
