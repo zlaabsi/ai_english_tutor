@@ -1,4 +1,4 @@
-# AI English Tutor : ElevenLabs AI Hackathon Project 
+# AI English Tutor : ElevenLabs AI Hackathon Project [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aienglishtutor.streamlit.app/)
 ## 🔗 [Lablab.ai Hackathon Link](https://lablab.ai/event/eleven-labs-ai-hackathon/ai-tutor/ai-english-tutor)
 
 
